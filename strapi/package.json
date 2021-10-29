@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "graphql": "^15.6.1",
+    "graphql": "^16.0.0",
     "knex": "0.21.18",
     "pg": "^8.7.1",
     "sqlite3": "5.0.0",
@@ -21,6 +21,7 @@
     "strapi-plugin-content-manager": "3.6.8",
     "strapi-plugin-content-type-builder": "3.6.8",
     "strapi-plugin-email": "3.6.8",
+    "strapi-plugin-graphql": "^3.6.8",
     "strapi-plugin-i18n": "3.6.8",
     "strapi-plugin-upload": "3.6.8",
     "strapi-plugin-users-permissions": "3.6.8",
@@ -31,9 +32,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "78c5536f-a0fe-469d-b0dd-8dc1a9314bfe",
-    "template": "https://github.com/strapi/strapi-template-blog",
-    "starter": "https://github.com/strapi/strapi-starter-gatsby-blog"
+    "uuid": "282d80db-07b4-45f7-9ca4-edc98f8ea0f2"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
