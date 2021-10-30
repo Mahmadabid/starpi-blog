@@ -1,3 +1,3 @@
-# starpi-blog
- 
-https://ahmstarpiblog.gatsbyjs.io/
+# Strapi application
+
+A quick description of your strapi application
